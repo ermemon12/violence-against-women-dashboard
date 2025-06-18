@@ -1,0 +1,348 @@
+sl._no,age,education,employment,income,marital_status,violence,Age group
+1,30,secondary,unemployed,0,married,yes,30s
+2,47,tertiary,unemployed,0,married,no,40s
+3,24,tertiary,unemployed,0,unmarried,no,20s
+4,22,tertiary,unemployed,0,unmarried,no,20s
+5,50,primary,unemployed,0,married,yes,50+
+6,21,tertiary,unemployed,0,unmarried,yes,20s
+7,30,tertiary,unemployed,0,married,no,30s
+8,27,tertiary,unemployed,0,married,no,20s
+9,20,tertiary,unemployed,0,unmarried,no,20s
+10,18,secondary,unemployed,0,married,no,Teen
+11,40,primary,unemployed,0,married,no,40s
+12,45,primary,unemployed,0,married,yes,40s
+13,45,none,unemployed,0,married,no,40s
+14,40,none,unemployed,0,married,yes,40s
+15,50,primary,unemployed,0,married,yes,50+
+16,43,primary,unemployed,0,married,no,40s
+17,18,secondary,unemployed,0,unmarried,no,Teen
+18,15,secondary,unemployed,0,unmarried,no,Teen
+19,44,primary,unemployed,0,married,no,40s
+20,35,secondary,unemployed,0,married,no,30s
+21,40,primary,unemployed,0,married,no,40s
+22,50,none,unemployed,0,married,yes,50+
+23,40,tertiary,unemployed,0,married,yes,40s
+24,35,none,unemployed,0,married,yes,30s
+25,44,primary,unemployed,0,married,no,40s
+26,23,secondary,unemployed,0,married,yes,20s
+27,24,primary,unemployed,0,married,yes,20s
+28,19,secondary,unemployed,0,unmarried,no,Teen
+29,27,secondary,unemployed,0,married,no,20s
+30,20,secondary,unemployed,0,married,no,20s
+31,18,secondary,unemployed,0,married,no,Teen
+32,23,secondary,unemployed,0,married,no,20s
+33,19,secondary,unemployed,0,married,no,Teen
+34,19,secondary,unemployed,0,married,no,Teen
+35,50,primary,unemployed,0,married,yes,50+
+36,25,secondary,unemployed,0,married,no,20s
+37,19,secondary,unemployed,0,unmarried,no,Teen
+38,30,primary,unemployed,0,married,yes,30s
+39,24,primary,unemployed,0,married,no,20s
+40,23,tertiary,unemployed,0,unmarried,no,20s
+41,20,secondary,unemployed,0,unmarried,no,20s
+42,50,none,unemployed,0,married,yes,50+
+43,21,secondary,unemployed,0,unmarried,no,20s
+44,32,tertiary,unemployed,0,unmarried,no,30s
+45,30,tertiary,unemployed,0,unmarried,no,30s
+46,25,secondary,unemployed,0,married,no,20s
+47,26,secondary,unemployed,0,married,yes,20s
+48,40,primary,unemployed,0,married,yes,40s
+49,50,primary,unemployed,0,married,yes,50+
+50,43,none,unemployed,0,married,yes,40s
+51,35,tertiary,unemployed,0,married,yes,30s
+52,40,primary,unemployed,0,married,yes,40s
+53,40,secondary,unemployed,0,married,yes,40s
+54,25,secondary,unemployed,0,married,no,20s
+55,23,secondary,unemployed,0,married,no,20s
+56,37,tertiary,unemployed,0,married,yes,30s
+57,33,primary,unemployed,0,married,yes,30s
+58,23,secondary,unemployed,0,married,no,20s
+59,42,none,unemployed,0,married,yes,40s
+60,33,primary,unemployed,0,married,yes,30s
+61,30,primary,unemployed,0,married,yes,30s
+62,33,secondary,unemployed,0,married,no,30s
+63,23,secondary,unemployed,0,married,no,20s
+64,22,tertiary,unemployed,0,married,yes,20s
+65,19,secondary,unemployed,0,married,yes,Teen
+66,25,primary,unemployed,0,married,yes,20s
+67,30,secondary,unemployed,0,married,yes,30s
+68,40,secondary,unemployed,0,married,no,40s
+69,27,primary,unemployed,0,married,yes,20s
+70,24,primary,unemployed,0,married,yes,20s
+71,30,primary,unemployed,0,married,no,30s
+72,35,primary,unemployed,0,married,yes,30s
+73,50,primary,unemployed,0,married,yes,50+
+74,47,primary,unemployed,0,married,yes,40s
+75,20,secondary,unemployed,0,married,no,20s
+76,23,secondary,unemployed,0,married,no,20s
+77,30,tertiary,unemployed,0,married,no,30s
+78,40,primary,unemployed,0,married,yes,40s
+79,54,primary,unemployed,0,married,yes,50+
+80,33,primary,unemployed,0,married,no,30s
+81,40,none,unemployed,0,married,no,40s
+82,35,none,unemployed,0,married,no,30s
+83,22,primary,unemployed,0,married,no,20s
+84,34,none,unemployed,0,married,no,30s
+85,45,primary,unemployed,0,married,no,40s
+86,27,none,unemployed,0,married,no,20s
+87,45,none,unemployed,0,married,no,40s
+88,39,primary,unemployed,0,married,yes,30s
+89,37,none,unemployed,0,married,no,30s
+90,21,secondary,unemployed,0,unmarried,no,20s
+91,29,none,unemployed,0,married,no,20s
+92,23,primary,unemployed,0,married,no,20s
+93,51,none,unemployed,0,married,no,50+
+94,33,primary,unemployed,0,unmarried,no,30s
+95,25,secondary,unemployed,0,married,no,20s
+96,26,none,unemployed,0,married,no,20s
+97,50,none,unemployed,0,married,no,50+
+98,29,primary,unemployed,0,married,no,20s
+99,28,primary,unemployed,0,married,no,20s
+100,18,none,unemployed,0,married,no,Teen
+101,35,none,unemployed,0,married,yes,30s
+102,34,tertiary,unemployed,0,married,no,30s
+103,25,none,unemployed,0,married,no,20s
+104,46,primary,unemployed,0,married,yes,40s
+105,19,secondary,unemployed,0,married,no,Teen
+106,40,none,unemployed,0,married,no,40s
+107,22,primary,unemployed,0,married,no,20s
+108,18,primary,unemployed,0,married,yes,Teen
+109,30,tertiary,unemployed,0,married,no,30s
+110,21,secondary,unemployed,0,unmarried,no,20s
+111,55,none,unemployed,0,married,no,50+
+112,32,none,unemployed,0,married,no,30s
+113,35,none,unemployed,0,married,no,30s
+114,18,secondary,unemployed,0,unmarried,no,Teen
+115,35,primary,unemployed,0,married,no,30s
+116,36,none,unemployed,0,married,no,30s
+117,50,primary,unemployed,0,married,no,50+
+118,30,secondary,unemployed,0,married,no,30s
+119,24,tertiary,unemployed,0,unmarried,no,20s
+120,47,none,unemployed,0,married,no,40s
+121,30,none,unemployed,0,married,no,30s
+122,30,tertiary,unemployed,0,married,no,30s
+123,35,primary,unemployed,0,married,no,30s
+124,55,none,unemployed,0,married,yes,50+
+125,19,secondary,unemployed,0,unmarried,no,Teen
+126,19,secondary,unemployed,0,unmarried,no,Teen
+127,38,primary,unemployed,0,married,no,30s
+128,25,none,unemployed,0,married,no,20s
+129,35,none,unemployed,0,married,no,30s
+130,30,primary,unemployed,0,married,no,30s
+131,24,none,unemployed,0,married,no,20s
+132,20,primary,unemployed,0,married,no,20s
+133,40,none,unemployed,0,married,no,40s
+134,56,none,unemployed,0,married,no,50+
+135,15,primary,unemployed,0,unmarried,yes,Teen
+136,26,secondary,unemployed,0,married,no,20s
+137,60,primary,unemployed,0,married,no,50+
+138,44,primary,unemployed,0,married,no,40s
+139,17,secondary,unemployed,0,unmarried,no,Teen
+140,45,primary,unemployed,0,married,no,40s
+141,19,none,unemployed,0,married,yes,Teen
+142,43,none,unemployed,0,married,no,40s
+143,22,none,unemployed,0,married,no,20s
+144,44,primary,unemployed,0,married,no,40s
+145,30,secondary,unemployed,0,married,no,30s
+146,39,none,unemployed,0,married,no,30s
+147,40,none,unemployed,0,married,no,40s
+148,42,none,unemployed,0,married,no,40s
+149,18,secondary,unemployed,0,unmarried,no,Teen
+150,30,primary,unemployed,0,married,no,30s
+151,25,none,unemployed,0,married,no,20s
+152,51,primary,unemployed,0,married,no,50+
+153,23,tertiary,unemployed,0,married,no,20s
+154,33,none,unemployed,0,married,no,30s
+155,25,tertiary,unemployed,0,unmarried,no,20s
+156,50,none,unemployed,0,married,yes,50+
+157,45,primary,unemployed,0,married,yes,40s
+158,30,tertiary,unemployed,0,married,no,30s
+159,26,tertiary,unemployed,0,married,no,20s
+160,35,secondary,unemployed,0,married,no,30s
+161,32,secondary,unemployed,0,married,no,30s
+162,26,secondary,unemployed,0,married,no,20s
+163,23,primary,unemployed,0,married,no,20s
+164,20,primary,unemployed,0,married,no,20s
+165,22,primary,unemployed,0,married,no,20s
+166,19,primary,unemployed,0,married,no,Teen
+167,35,primary,unemployed,0,married,no,30s
+168,25,primary,unemployed,0,married,no,20s
+169,47,primary,unemployed,0,married,yes,40s
+170,44,primary,unemployed,0,married,no,40s
+171,33,primary,unemployed,0,married,no,30s
+172,28,primary,unemployed,0,married,no,20s
+173,19,tertiary,unemployed,0,unmarried,no,Teen
+174,35,primary,unemployed,0,married,yes,30s
+175,40,primary,unemployed,0,married,yes,40s
+176,29,secondary,unemployed,0,married,no,20s
+177,20,primary,unemployed,0,married,yes,20s
+178,26,secondary,unemployed,0,married,yes,20s
+179,24,secondary,unemployed,0,married,no,20s
+180,33,secondary,unemployed,0,married,yes,30s
+181,21,primary,unemployed,0,married,yes,20s
+182,22,primary,unemployed,0,married,no,20s
+183,23,primary,unemployed,0,married,yes,20s
+184,25,primary,unemployed,0,married,yes,20s
+185,30,secondary,unemployed,0,married,yes,30s
+186,23,primary,unemployed,0,married,yes,20s
+187,28,primary,unemployed,0,married,no,20s
+188,25,primary,unemployed,0,married,yes,20s
+189,30,primary,unemployed,0,married,no,30s
+190,29,tertiary,unemployed,0,married,no,20s
+191,44,primary,unemployed,0,married,no,40s
+192,23,secondary,unemployed,0,married,no,20s
+193,20,primary,unemployed,0,married,yes,20s
+194,21,primary,unemployed,0,married,no,20s
+195,19,secondary,unemployed,0,unmarried,no,Teen
+196,29,secondary,unemployed,0,married,yes,20s
+197,26,secondary,unemployed,0,married,no,20s
+198,44,secondary,unemployed,0,married,no,40s
+199,22,secondary,unemployed,0,married,no,20s
+200,34,primary,unemployed,0,married,no,30s
+201,46,primary,unemployed,0,married,yes,40s
+202,38,primary,unemployed,0,married,no,30s
+203,33,secondary,unemployed,0,married,no,30s
+204,29,tertiary,unemployed,0,married,yes,20s
+205,34,secondary,unemployed,0,married,no,30s
+206,26,secondary,unemployed,0,married,no,20s
+207,33,secondary,unemployed,0,married,no,30s
+208,44,primary,unemployed,0,married,no,40s
+209,25,primary,unemployed,0,married,yes,20s
+210,36,primary,unemployed,0,married,no,30s
+211,22,secondary,unemployed,0,married,no,20s
+212,28,primary,unemployed,0,married,no,20s
+213,46,primary,unemployed,0,married,no,40s
+214,42,primary,unemployed,0,married,no,40s
+215,33,secondary,unemployed,0,married,no,30s
+216,21,primary,unemployed,0,married,no,20s
+217,24,primary,unemployed,0,married,yes,20s
+218,32,tertiary,unemployed,0,married,yes,30s
+219,33,primary,unemployed,0,married,no,30s
+220,25,secondary,unemployed,0,married,no,20s
+221,25,secondary,unemployed,0,married,no,20s
+222,29,primary,unemployed,0,married,no,20s
+223,21,secondary,unemployed,0,unmarried,no,20s
+224,36,primary,unemployed,0,married,no,30s
+225,44,primary,unemployed,0,married,no,40s
+226,31,primary,unemployed,0,married,no,30s
+227,30,secondary,unemployed,0,married,no,30s
+228,27,secondary,unemployed,0,married,no,20s
+229,20,secondary,unemployed,0,married,no,20s
+230,24,secondary,unemployed,0,unmarried,no,20s
+231,33,primary,unemployed,0,married,no,30s
+232,22,secondary,unemployed,0,married,no,20s
+233,24,secondary,unemployed,0,married,no,20s
+234,42,primary,unemployed,0,married,yes,40s
+235,38,primary,unemployed,0,married,no,30s
+236,28,secondary,unemployed,0,married,yes,20s
+237,22,secondary,unemployed,0,unmarried,no,20s
+238,21,primary,unemployed,0,unmarried,no,20s
+239,23,secondary,unemployed,0,married,no,20s
+240,34,secondary,unemployed,0,married,no,30s
+241,36,primary,unemployed,0,married,no,30s
+242,25,secondary,unemployed,0,married,no,20s
+243,45,primary,unemployed,0,married,no,40s
+244,31,secondary,unemployed,0,married,yes,30s
+245,22,secondary,unemployed,0,unmarried,no,20s
+246,28,secondary,unemployed,0,married,yes,20s
+247,36,primary,unemployed,0,married,no,30s
+248,41,primary,unemployed,0,married,no,40s
+249,20,secondary,unemployed,0,married,no,20s
+250,31,secondary,unemployed,0,married,yes,30s
+251,36,primary,unemployed,0,married,no,30s
+252,31,secondary,unemployed,0,married,no,30s
+253,47,primary,unemployed,0,married,no,40s
+254,23,secondary,unemployed,0,unmarried,yes,20s
+255,36,primary,unemployed,0,married,no,30s
+256,38,primary,unemployed,0,married,no,30s
+257,28,secondary,unemployed,0,married,no,20s
+258,29,secondary,unemployed,0,married,no,20s
+259,31,primary,unemployed,0,married,no,30s
+260,43,primary,unemployed,0,married,yes,40s
+261,44,primary,unemployed,0,married,no,40s
+262,21,secondary,unemployed,0,unmarried,no,20s
+263,20,secondary,unemployed,0,married,no,20s
+264,23,secondary,unemployed,0,married,yes,20s
+265,36,primary,unemployed,0,married,no,30s
+266,42,primary,unemployed,0,married,no,40s
+267,33,primary,unemployed,0,married,no,30s
+268,23,secondary,unemployed,0,unmarried,no,20s
+269,32,primary,unemployed,0,married,yes,30s
+270,50,primary,unemployed,8,married,no,50+
+271,19,secondary,semi employed,1000,unmarried,no,Teen
+272,45,none,unemployed,1000,married,no,40s
+273,22,secondary,semi employed,1200,married,yes,20s
+274,33,primary,semi employed,1500,married,no,30s
+275,30,primary,semi employed,2000,married,no,30s
+276,18,secondary,semi employed,2000,unmarried,no,Teen
+277,25,primary,semi employed,2000,married,no,20s
+278,22,primary,semi employed,2000,married,no,20s
+279,24,secondary,employed,2000,unmarried,no,20s
+280,29,primary,semi employed,2200,married,no,20s
+281,23,none,semi employed,2500,married,no,20s
+282,27,secondary,semi employed,2500,married,yes,20s
+283,26,primary,semi employed,2500,married,no,20s
+284,46,primary,employed,2500,married,yes,40s
+285,20,tertiary,semi employed,3000,unmarried,no,20s
+286,27,primary,semi employed,3000,married,no,20s
+287,21,secondary,semi employed,3000,unmarried,no,20s
+288,25,secondary,semi employed,3000,unmarried,no,20s
+289,27,primary,semi employed,3000,married,no,20s
+290,19,secondary,semi employed,3000,married,no,Teen
+291,50,tertiary,employed,3500,married,yes,50+
+292,26,secondary,semi employed,3500,married,no,20s
+293,25,primary,semi employed,3500,married,no,20s
+294,30,secondary,semi employed,4000,married,no,30s
+295,48,secondary,semi employed,4000,married,no,40s
+296,21,secondary,semi employed,4000,unmarried,no,20s
+297,43,primary,semi employed,4000,married,no,40s
+298,50,primary,employed,5000,married,no,50+
+299,45,none,semi employed,5000,married,yes,40s
+300,20,secondary,semi employed,5000,unmarried,no,20s
+301,27,none,semi employed,5000,married,no,20s
+302,29,secondary,semi employed,5000,unmarried,no,20s
+303,23,tertiary,semi employed,5000,unmarried,no,20s
+304,22,secondary,semi employed,5000,married,yes,20s
+305,28,secondary,employed,5000,married,yes,20s
+306,42,none,semi employed,5500,married,no,40s
+307,45,none,semi employed,5500,married,no,40s
+308,25,none,semi employed,6000,married,no,20s
+309,31,tertiary,semi employed,6000,married,no,30s
+310,28,tertiary,semi employed,6000,married,no,20s
+311,22,secondary,semi employed,6000,married,no,20s
+312,27,secondary,semi employed,7000,married,no,20s
+313,39,primary,employed,7000,married,yes,30s
+314,26,tertiary,semi employed,8000,unmarried,no,20s
+315,45,none,semi employed,8000,married,no,40s
+316,48,primary,semi employed,8000,married,yes,40s
+317,44,primary,semi employed,9000,married,no,40s
+318,27,tertiary,semi employed,10000,married,no,20s
+319,40,none,semi employed,10000,married,no,40s
+320,30,primary,semi employed,10000,married,no,30s
+321,18,secondary,employed,10000,unmarried,no,Teen
+322,28,tertiary,employed,12000,married,no,20s
+323,30,secondary,semi employed,12000,married,no,30s
+324,35,none,semi employed,15000,married,no,30s
+325,25,primary,employed,15000,married,yes,20s
+326,23,secondary,employed,15000,married,no,20s
+327,26,primary,employed,15000,married,no,20s
+328,26,secondary,semi employed,18000,married,no,20s
+329,22,secondary,employed,20000,married,no,20s
+330,43,tertiary,employed,22000,married,no,40s
+331,37,tertiary,employed,22000,married,no,30s
+332,35,tertiary,employed,22000,married,no,30s
+333,30,tertiary,employed,22000,married,no,30s
+334,30,tertiary,employed,22000,married,no,30s
+335,42,tertiary,employed,24000,married,no,40s
+336,40,tertiary,employed,24000,married,no,40s
+337,43,tertiary,employed,24000,married,yes,40s
+338,40,tertiary,employed,25000,married,no,40s
+339,26,tertiary,employed,25000,married,no,20s
+340,29,secondary,employed,25000,married,no,20s
+341,45,tertiary,employed,27000,married,no,40s
+342,45,tertiary,employed,28000,married,no,40s
+343,27,tertiary,semi employed,30000,unmarried,no,20s
+344,26,tertiary,employed,35000,married,no,20s
+345,27,primary,unemployed,0,married,yes,20s
+346,29,primary,unemployed,0,married,no,20s
+347,24,secondary,unemployed,0,married,no,20s
