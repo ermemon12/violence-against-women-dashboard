@@ -1,0 +1,19 @@
+### 🔍 Insights Summary – Violence Against Women Dashboard
+
+1. **Marital Status Insight**:
+   Married women reported significantly more violence (27.6%) compared to unmarried women (6.4%).
+
+2. **Employment Insight**:
+   Unemployed women showed the highest number of reported cases, suggesting economic dependency may be a contributing factor.
+
+3. **Age Group Insight**:
+   Violence reports are most prevalent among women in their 20s, with a gradual decline across older age groups.
+   This trend could reflect increased risk due to early adulthood transitions, vulnerability in relationships, or sociocultural factors.
+
+4. **Education Insight**:
+   Women with primary education reported more cases than those with tertiary education, potentially indicating a relationship between education level and vulnerability.
+
+5. **Overall Statistics**:
+   - Total Participants: 347
+   - Total Violence Cases: 86
+   - Violence Rate: 24.7%
